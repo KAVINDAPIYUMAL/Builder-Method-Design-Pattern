@@ -1,0 +1,7 @@
+D:\2024-JOB-PRACTIES\GIT\Design-Patterns\Builder-Method-Design-Pattern\Builder-Method-Design-Pattern\Builder-Method-Design-Pattern\bin\Debug\Builder-Method-Design-Pattern.exe.config
+D:\2024-JOB-PRACTIES\GIT\Design-Patterns\Builder-Method-Design-Pattern\Builder-Method-Design-Pattern\Builder-Method-Design-Pattern\bin\Debug\Builder-Method-Design-Pattern.exe
+D:\2024-JOB-PRACTIES\GIT\Design-Patterns\Builder-Method-Design-Pattern\Builder-Method-Design-Pattern\Builder-Method-Design-Pattern\bin\Debug\Builder-Method-Design-Pattern.pdb
+D:\2024-JOB-PRACTIES\GIT\Design-Patterns\Builder-Method-Design-Pattern\Builder-Method-Design-Pattern\Builder-Method-Design-Pattern\obj\Debug\Builder-Method-Design-Pattern.csproj.AssemblyReference.cache
+D:\2024-JOB-PRACTIES\GIT\Design-Patterns\Builder-Method-Design-Pattern\Builder-Method-Design-Pattern\Builder-Method-Design-Pattern\obj\Debug\Builder-Method-Design-Pattern.csproj.CoreCompileInputs.cache
+D:\2024-JOB-PRACTIES\GIT\Design-Patterns\Builder-Method-Design-Pattern\Builder-Method-Design-Pattern\Builder-Method-Design-Pattern\obj\Debug\Builder-Method-Design-Pattern.exe
+D:\2024-JOB-PRACTIES\GIT\Design-Patterns\Builder-Method-Design-Pattern\Builder-Method-Design-Pattern\Builder-Method-Design-Pattern\obj\Debug\Builder-Method-Design-Pattern.pdb
